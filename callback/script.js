@@ -3,8 +3,9 @@ const vak = "wiskunde"
 
 function huiswerkMaken(vak, callback) {
 
+    console.log(`Ok, ok, ik ga nu mijn ${vak} huiswerk maken`)
     setTimeout(() => {
-        console.log(`Ok, ok, ik ga nu mijn ${vak} huiswerk maken`)
+        callback()
     }, 2000)
 
 };
