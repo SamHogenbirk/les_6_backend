@@ -10,7 +10,6 @@ function huiswerkMaken(vak, callback) {
 
 };
 
-
 function klaarMetHuiswerk() {
     console.log("Kijk Paps/Mams, ik ben klaar met mijn huiswerk!")
 };
