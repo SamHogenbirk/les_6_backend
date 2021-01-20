@@ -1,12 +1,8 @@
-
-
 async function movies() {
 
-    let data = getData()
-    return data
+    let result = await getData()
+    return result
+
 }
 
-movies()
-
-
-
+console.log(movies())
