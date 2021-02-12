@@ -1,0 +1,68 @@
+
+  body{
+
+    /* background-color:#A9927D ; */
+    background-color:hsl(202deg 65% 16.68%);
+  }
+
+  #wrapper{
+
+    background-color:hsl(202deg 65% 16.68%);  
+    display: flex;
+    justify-content: center;
+  }
+
+  img{
+
+    margin-top: 70px;
+    width: 100%;
+  }
+
+  .button-meme{
+
+    background-color:hsl(202deg 90% 66%);
+    position: absolute;
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 0%;
+    outline: none;
+  }
+
+  button:hover{
+
+    cursor: pointer;
+  }
+
+  .button-quote{
+    background-color:hsl(202deg 90% 66%);
+    position: absolute;
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 57%;
+    outline: none;
+  }
+
+
+  .dad-area{
+
+    margin-top: 150px;
+  }
+  .dad-area{
+
+    margin-top: 100px;
+    height: 100px;
+    width:100%;
+   color: wheat;
+   position: relative;
+   text-align: center;
+  }
+
+
+
+
